@@ -1,0 +1,7 @@
+{
+  "name": "FF SHELL India - Free Fire ID Exchange",
+  "description": "A premium Indian marketplace for buying and selling Free Fire accounts with integrated UPI payments and AI-powered account valuation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
